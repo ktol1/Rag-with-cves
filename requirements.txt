@@ -1,0 +1,12 @@
+pypdf
+langchain
+chromadb
+pytest
+Flask
+requests
+re
+os
+argparse
+shutil
+langchain_community
+langchain_openai
